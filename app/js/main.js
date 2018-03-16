@@ -1,4 +1,4 @@
 'use strict';
 (function(){
-  console.log('Hey');
+  alert('You are coding now!');
 })(window);
