@@ -1,7 +1,7 @@
 # Gulp Starter Boilerplate
 Simple gulp boilerplate to get you rolling and coding. Includes basic configuration with:
 * Browserify
-* Babel
+* Babel (includes ES6)
 * Sass
 * and others...
 ## Installation
