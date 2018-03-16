@@ -1,4 +1,4 @@
-# Gulp Starter Boiler plate
+# Gulp Starter Boilerplate
 Simple gulp boilerplate to get you rolling and coding. Includes basic configuration with:
 * Browserify
 * Babel
